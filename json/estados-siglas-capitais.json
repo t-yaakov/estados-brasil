@@ -1,0 +1,166 @@
+{
+  "estados": [
+    {
+      "id": 1,
+      "estado": "Acre",
+      "sigla": "AC",
+      "capital": "Rio Branco"
+    },
+    {
+      "id": 2,
+      "estado": "Alagoas",
+      "sigla": "AL",
+      "capital": "Maceió"
+    },
+    {
+      "id": 3,
+      "estado": "Amapá",
+      "sigla": "AP",
+      "capital": "Macapá"
+    },
+    {
+      "id": 4,
+      "estado": "Amazonas",
+      "sigla": "AM",
+      "capital": "Manaus"
+    },
+    {
+      "id": 5,
+      "estado": "Bahia",
+      "sigla": "BA",
+      "capital": "Salvador"
+    },
+    {
+      "id": 6,
+      "estado": "Ceará",
+      "sigla": "CE",
+      "capital": "Fortaleza"
+    },
+    {
+      "id": 7,
+      "estado": "Distrito Federal",
+      "sigla": "DF",
+      "capital": "Brasília"
+    },
+    {
+      "id": 8,
+      "estado": "Espírito Santo",
+      "sigla": "ES",
+      "capital": "Vitória"
+    },
+    {
+      "id": 9,
+      "estado": "Goiás",
+      "sigla": "GO",
+      "capital": "Goiânia"
+    },
+    {
+      "id": 10,
+      "estado": "Maranhão",
+      "sigla": "MA",
+      "capital": "São Luís"
+    },
+    {
+      "id": 11,
+      "estado": "Mato Grosso",
+      "sigla": "MT",
+      "capital": "Cuiabá"
+    },
+    {
+      "id": 12,
+      "estado": "Mato Grosso do Sul",
+      "sigla": "MS",
+      "capital": "Campo Grande"
+    },
+    {
+      "id": 13,
+      "estado": "Minas Gerais",
+      "sigla": "MG",
+      "capital": "Belo Horizonte"
+    },
+    {
+      "id": 14,
+      "estado": "Pará",
+      "sigla": "PA",
+      "capital": "Belém"
+    },
+    {
+      "id": 15,
+      "estado": "Paraíba",
+      "sigla": "PB",
+      "capital": "João Pessoa"
+    },
+    {
+      "id": 16,
+      "estado": "Paraná",
+      "sigla": "PR",
+      "capital": "Curitiba"
+    },
+    {
+      "id": 17,
+      "estado": "Pernambuco",
+      "sigla": "PE",
+      "capital": "Recife"
+    },
+    {
+      "id": 18,
+      "estado": "Piauí",
+      "sigla": "PI",
+      "capital": "Teresina"
+    },
+    {
+      "id": 19,
+      "estado": "Rio de Janeiro",
+      "sigla": "RJ",
+      "capital": "Rio de Janeiro"
+    },
+    {
+      "id": 20,
+      "estado": "Rio Grande do Norte",
+      "sigla": "RN",
+      "capital": "Natal"
+    },
+    {
+      "id": 21,
+      "estado": "Rio Grande do Sul",
+      "sigla": "RS",
+      "capital": "Porto Alegre"
+    },
+    {
+      "id": 22,
+      "estado": "Rondônia",
+      "sigla": "RO",
+      "capital": "Porto Velho"
+    },
+    {
+      "id": 23,
+      "estado": "Roraima",
+      "sigla": "RR",
+      "capital": "Boa Vista"
+    },
+    {
+      "id": 24,
+      "estado": "Santa Catarina",
+      "sigla": "SC",
+      "capital": "Florianópolis"
+    },
+    {
+      "id": 25,
+      "estado": "São Paulo",
+      "sigla": "SP",
+      "capital": "São Paulo"
+    },
+    {
+      "id": 26,
+      "estado": "Sergipe",
+      "sigla": "SE",
+      "capital": "Aracaju"
+    },
+    {
+      "id": 27,
+      "estado": "Tocantins",
+      "sigla": "TO",
+      "capital": "Palmas"
+    }
+  ]
+}

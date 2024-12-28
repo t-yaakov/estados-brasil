@@ -1,0 +1,112 @@
+{
+  "estados": [
+    {
+      "id": 1,
+      "estado": "Acre"
+    },
+    {
+      "id": 2,
+      "estado": "Alagoas"
+    },
+    {
+      "id": 3,
+      "estado": "Amapá"
+    },
+    {
+      "id": 4,
+      "estado": "Amazonas"
+    },
+    {
+      "id": 5,
+      "estado": "Bahia"
+    },
+    {
+      "id": 6,
+      "estado": "Ceará"
+    },
+    {
+      "id": 7,
+      "estado": "Distrito Federal"
+    },
+    {
+      "id": 8,
+      "estado": "Espírito Santo"
+    },
+    {
+      "id": 9,
+      "estado": "Goiás"
+    },
+    {
+      "id": 10,
+      "estado": "Maranhão"
+    },
+    {
+      "id": 11,
+      "estado": "Mato Grosso"
+    },
+    {
+      "id": 12,
+      "estado": "Mato Grosso do Sul"
+    },
+    {
+      "id": 13,
+      "estado": "Minas Gerais"
+    },
+    {
+      "id": 14,
+      "estado": "Pará"
+    },
+    {
+      "id": 15,
+      "estado": "Paraíba"
+    },
+    {
+      "id": 16,
+      "estado": "Paraná"
+    },
+    {
+      "id": 17,
+      "estado": "Pernambuco"
+    },
+    {
+      "id": 18,
+      "estado": "Piauí"
+    },
+    {
+      "id": 19,
+      "estado": "Rio de Janeiro"
+    },
+    {
+      "id": 20,
+      "estado": "Rio Grande do Norte"
+    },
+    {
+      "id": 21,
+      "estado": "Rio Grande do Sul"
+    },
+    {
+      "id": 22,
+      "estado": "Rondônia"
+    },
+    {
+      "id": 23,
+      "estado": "Roraima"
+    },
+    {
+      "id": 24,
+      "estado": "Santa Catarina"
+    },
+    {
+      "id": 25,
+      "estado": "São Paulo"
+    },
+    {
+      "id": 26,
+      "estado": "Sergipe"
+    },
+    {
+      "id": 27,
+      "estado": "Tocantins"
+    }
+  ]
+}
